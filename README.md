@@ -1,8 +1,6 @@
-Certainly! Here's a sample README file for your Streamlit app:
 
----
 
-# Streamlined Model Selection & Deployment
+# 🚀Streamlined Model Selection & Deployment
 
 This Streamlit app automates the process of model selection and deployment for optimal predictive performance. It compares various machine learning models using GridSearchCV and displays the best model along with its prediction.
 
