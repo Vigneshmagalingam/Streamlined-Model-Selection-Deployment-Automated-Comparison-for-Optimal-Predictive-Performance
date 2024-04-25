@@ -1,5 +1,3 @@
-
-
 # 🚀Streamlined Model Selection & Deployment
 
 This Streamlit app automates the process of model selection and deployment for optimal predictive performance. It compares various machine learning models using GridSearchCV and displays the best model along with its prediction.
@@ -9,6 +7,7 @@ This Streamlit app automates the process of model selection and deployment for o
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Web App URL](#web-app-url)
 
 ## Getting Started
 
@@ -17,13 +16,13 @@ To run this Streamlit app locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git](https://github.com/Vigneshmagalingam/Streamlined-Model-Selection-Deployment-Automated-Comparison-for-Optimal-Predictive-Performance
+   git clone https://github.com/Vigneshmagalingam/Streamlined-Model-Selection-Deployment-Automated-Comparison-for-Optimal-Predictive-Performance.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo-name
+   cd Streamlined-Model-Selection-Deployment-Automated-Comparison-for-Optimal-Predictive-Performance
    ```
 
 3. Install the required dependencies using pip:
@@ -58,3 +57,6 @@ The following packages are required to run this Streamlit app:
 
 These dependencies are specified in the `requirements.txt` file.
 
+## Web App URL
+
+Access the deployed Streamlit app [here](https://modelselection.streamlit.app/).
